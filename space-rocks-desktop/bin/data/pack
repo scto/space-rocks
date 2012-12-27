@@ -1,0 +1,47 @@
+
+space rocks1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background1
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 2, 1084
+  size: 1695, 190
+  orig: 1695, 190
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 2, 1276
+  size: 1137, 471
+  orig: 1137, 471
+  offset: 0, 0
+  index: -1
+scores
+  rotate: false
+  xy: 2, 1749
+  size: 541, 98
+  orig: 541, 98
+  offset: 0, 0
+  index: -1
+stars
+  rotate: false
+  xy: 1141, 1276
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+start
+  rotate: false
+  xy: 2, 1849
+  size: 454, 98
+  orig: 454, 98
+  offset: 0, 0
+  index: -1
